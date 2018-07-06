@@ -1,6 +1,5 @@
 # xPACS Website
 
-
 [https://cmuxpacs.github.io/](https://cmuxpacs.github.io/)
 
 This repository contains the code for the xPACS website.
