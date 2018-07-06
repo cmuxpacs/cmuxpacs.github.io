@@ -1,9 +1,9 @@
-# ConOut Website
+# xPACS Website
 
 
-[https://cmuconout.github.io/](https://cmuxstream.github.io/)
+[https://cmuxpacs.github.io/](https://cmuxpacs.github.io/)
 
-This repository contains the code for the ConOut website.
+This repository contains the code for the xPACS website.
 
 ## Contact
 
